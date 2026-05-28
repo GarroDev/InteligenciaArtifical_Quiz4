@@ -1,6 +1,8 @@
 """
 Agente Reactivo Simple para la Gestión de Inventario de una Farmacia
-Autor: Cristian
+Autor: Cristian Garro Sabogal
+       Maria Camila Jimenez Puerta
+       Juan Esteban Urrea Cardona
 Descripción:
     Agente de tipo reactivo basado en una tabla de condición-acción.
     Percibe entradas del operario y ejecuta la acción correspondiente
